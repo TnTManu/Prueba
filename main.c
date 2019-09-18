@@ -1,5 +1,1 @@
-int main(){
-
-	cout<<"Hola"<<end;
-
-}
+int main(){}
