@@ -1,8 +1,8 @@
+#include<stdio.h>
+
 int main(){
 
-hiiiii8i
+	printf("Hola Mundo\n");
+	return 0;
 
-holaaaaaaa
-
-hola
 }
